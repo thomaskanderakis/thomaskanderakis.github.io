@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Uncovering_the_Secrets_of_Mona_Lisa" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Uncovering the Secrets of Mona Lisa</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Uncovering_the_Secrets_of_Mona_Lisa_ORG">
+    <organization identifier="Uncovering_the_Secrets_of_Mona_Lisa_ORG">
+      <title>Uncovering the Secrets of Mona Lisa</title>
+      <item identifier="Uncovering_the_Secrets_of_Mona_Lisa_SCO" isvisible="true" identifierref="_Uncovering_the_Secrets_of_Mona_Lisa_RES">
+        <title>Uncovering the Secrets of Mona Lisa</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Uncovering_the_Secrets_of_Mona_Lisa_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6X9GoQn33x1_26_16_960x540.mp4" />
+      <file href="mobile/poster_6djlPs9Wul8_video_6X9GoQn33x1_26_16_960x540.jpg" />
+      <file href="mobile/6QmixlQ1jwV.png" />
+      <file href="mobile/6QmixlQ1jwV_RG.png" />
+      <file href="mobile/6crq63G9UlM.png" />
+      <file href="mobile/6crq63G9UlM_RG.png" />
+      <file href="mobile/6b6nRI6kXfh.png" />
+      <file href="mobile/5ewOgqPsdcm.png" />
+      <file href="mobile/6ZUz7XS621F.png" />
+      <file href="mobile/6SJ9VHTxth1.png" />
+      <file href="mobile/6SJ9VHTxth1_RG.png" />
+      <file href="mobile/5sEEggcrWfT.png" />
+      <file href="mobile/5nDaszzNixa.png" />
+      <file href="mobile/5nDaszzNixa_RG.png" />
+      <file href="mobile/6DTKmDHYJLF.png" />
+      <file href="mobile/6DTKmDHYJLF_RG.png" />
+      <file href="mobile/5hi60RNiXpP.png" />
+      <file href="mobile/5hi60RNiXpP_RG.png" />
+      <file href="mobile/6DTKmDHYJLF_RS.png" />
+      <file href="mobile/5ewOgqPsdcm_RG.png" />
+      <file href="mobile/6ZUz7XS621F_RG.png" />
+      <file href="mobile/6kyB02n4GiY_P_47_0_384_507.png" />
+      <file href="mobile/6kyB02n4GiY_P_345_0_86_507.png" />
+      <file href="mobile/6JyEAJV9wPY_M_484_484.png" />
+      <file href="mobile/5Vhie2izKVn_M_512_512.png" />
+      <file href="mobile/5hi60RNiXpP_RS.png" />
+      <file href="mobile/6Wsu1i5uKoP.png" />
+      <file href="mobile/6Wsu1i5uKoP_P_470_0_92_563.png" />
+      <file href="mobile/6iLPqUAblRN_M_446_446.png" />
+      <file href="mobile/5b4tQHLMizi.png" />
+      <file href="mobile/5b4tQHLMizi_P_496_0_66_563.png" />
+      <file href="mobile/5ZTnjZjkHb7_M_500_500.png" />
+      <file href="mobile/5nDaszzNixa_RS.png" />
+      <file href="mobile/6biLA5HrUb8.png" />
+      <file href="mobile/6biLA5HrUb8_P_402_0_104_507.png" />
+      <file href="mobile/5gHbhxtb3yd_M_532_532.png" />
+      <file href="mobile/5sEEggcrWfT_RS.png" />
+      <file href="mobile/5pXd3zpSctt_P_0_0_454_507.png" />
+      <file href="mobile/5pXd3zpSctt_P_398_0_66_507.png" />
+      <file href="mobile/6l759PXzPLj_M_360_360.png" />
+      <file href="mobile/6b0lZ2sLGug_P_1490_260_430_452.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5kzb3Qp0DOr.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/audioLoop.mp3" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5qi5aYSePTk.js" />
+      <file href="html5/data/js/5V0iW1RmbTV.js" />
+      <file href="html5/data/js/61BBcnmXfWW.js" />
+      <file href="html5/data/js/62Wd0iANJU2.js" />
+      <file href="html5/data/js/6bff5VRYXyl.js" />
+      <file href="html5/data/js/6IbIJrV5U0m.js" />
+      <file href="html5/data/js/6LeCu8wzK7e.js" />
+      <file href="html5/data/js/6p319pqh1Da.js" />
+      <file href="html5/data/js/6PYygbSnEwA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
